@@ -87,7 +87,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Sample;Alex;;;
 FN:Alex Sample
-NICKNAME:Al
+NICKNAME:AS
 TITLE:Solutions Architect
 TEL;TYPE=CELL:+15555550100
 EMAIL;TYPE=INTERNET:name@example.com
