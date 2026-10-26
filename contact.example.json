@@ -6,7 +6,5 @@
   "phone": "+15555550100",
   "email": "name@example.com",
   "website": "https://example.com",
-  "linkedin": "https://www.linkedin.com/in/your-profile/",
-  "photo": "private/photo.png",
-  "photo_crop": null
+  "linkedin": "https://www.linkedin.com/in/your-profile/"
 }
