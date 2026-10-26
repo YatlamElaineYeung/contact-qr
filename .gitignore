@@ -1,0 +1,17 @@
+# Real contact details and photo (never commit these)
+private/
+
+# Generated QR codes and contact cards contain the private details too
+output/
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and local environment settings
+.env
+.env.*
+
+# macOS folder metadata
+.DS_Store
